@@ -2,7 +2,7 @@
 
 **Founder, AVE Studio (AI Visibility Engineering Studio)** — Budapest
 
-I build AI products and tools.
+Having a strong marketing background I build GEO/AEO/KEO/Model Mindshare products and tools as well as providing consultancy in these fields
 
 ## Products
 
