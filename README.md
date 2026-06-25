@@ -1,12 +1,12 @@
-# Bóna Richárd / Richard Bona
+# Bóna Richárd / Richárd Bóna
 
-**Founder, AVE Studio** — Budapest
+**Founder, AVE Studio (AI Visibility Engineering Studio)** — Budapest
 
 I build AI products and tools.
 
 ## Products
 
-- [AVE Studio](https://avestudio.hu)
+- [AVE Studio](https://avestudio.pro)
 - [Aingler](https://aingler.app)
 - [Passport Pub](https://passportpub.hu)
 - [PP Booking](https://ppbooking.beer)
