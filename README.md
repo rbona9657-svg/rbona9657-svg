@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bóna Richárd / Richard Bona
 
-<!--
-**rbona9657-svg/rbona9657-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder, AVE Studio** — Budapest
 
-Here are some ideas to get you started:
+I build AI products and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Products
+
+- [AVE Studio](https://avestudio.hu)
+- [Aingler](https://aingler.app)
+- [Passport Pub](https://passportpub.hu)
+- [PP Booking](https://ppbooking.beer)
+
+## Elsewhere
+
+- [Apple Developer profile](https://apps.apple.com/developer/richard-bona/id1884399215)
